@@ -16,7 +16,8 @@ dependencies = [
   "seaborn>=0.13.2",
   "torchsummary>=1.5.1",
   "torch>=2.1.0",
-  "torchvision>=0.15.0"
+  "torchvision>=0.15.0",
+  "scikit-learn>=1.7.2",
 ]
 
 [[tool.uv.index]]
