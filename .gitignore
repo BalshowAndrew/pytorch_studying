@@ -16,3 +16,5 @@ dlwpt-code/
 datas/
 MNIST/
 FashionMNIST/
+*.txt
+*.csv
